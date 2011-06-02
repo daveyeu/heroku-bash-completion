@@ -1,3 +1,3 @@
-= Heroku Bash Completion =
+# Heroku Bash Completion #
 
 Lots to do.
